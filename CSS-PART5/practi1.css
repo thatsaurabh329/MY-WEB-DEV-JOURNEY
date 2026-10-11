@@ -1,0 +1,22 @@
+#outer{
+    height: 400px;
+    width: 400px;
+    border: 2px solid  rgb(9, 223, 9);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    border-radius: 10px;
+    justify-content: space-evenly;
+
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: rgb(135, 128, 128);
+   border-radius: 10px;
+        
+    
+
+}

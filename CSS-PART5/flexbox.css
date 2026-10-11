@@ -1,0 +1,13 @@
+.outer{
+    border: 2px solid black;
+    height: 300px;
+    width: 80%;
+    margin: 10px auto;
+    display: flex; /*flex property*/
+    flex-direction: column-reverse;
+
+}
+.inner{
+    height: 60px;
+    width: 60px;
+}

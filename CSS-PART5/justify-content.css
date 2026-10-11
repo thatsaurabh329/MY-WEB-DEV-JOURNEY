@@ -1,0 +1,18 @@
+.outer{
+    border: 2px solid black;
+    height: 300px;
+    width: 80%;
+    margin: 10px auto;
+    display: flex; 
+    flex-direction: row;
+    /*  justify-content: space-evenly; 
+      justify-content: space-around;
+     justify-content: space-between;*/
+    flex-wrap: wrap;
+
+}
+.inner{
+    height: 60px;
+    width: 300px;
+}
+
