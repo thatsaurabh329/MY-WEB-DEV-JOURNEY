@@ -1,0 +1,27 @@
+div{
+    height: 100px;
+    width: 500px;
+    background-color: cornflowerblue;
+    border-width: 5px;
+    border-color: darkred;
+    border-style: solid;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 25px;
+
+}
+button{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: yellowgreen;
+    color: brown;
+    font-family: bold;
+}
