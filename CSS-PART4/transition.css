@@ -1,0 +1,16 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px;
+    background-color: plum;
+     border-style: solid;
+     border-color: black;
+     transition-duration: 2s;
+
+}
+div:hover{
+    border-radius: 50%;
+    background-color: blueviolet;
+   
+
+}

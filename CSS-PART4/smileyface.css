@@ -1,0 +1,36 @@
+#one{
+    border-radius: 50%;
+    background-color: #ffa511;
+    width: 200px;
+    height: 200px;
+}
+#two{
+    border-radius: 50%;
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 45px;
+}
+#three{
+    border-radius: 50%;
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 135px;
+}
+#four{
+
+    background-color:brown;
+    width: 100px;
+    height: 40px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: absolute;
+top:120px ;
+left: 60px;
+
+}

@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px;
+    background-color: plum;
+     transition-duration: 2s ;
+     margin: 0 auto; /*element ko center pr lane ke liye*/ 
+     margin-top: 10px;
+     transition: margin-top 1s ease-in ;
+
+
+}
+div:hover{
+    border-radius: 50%;
+    background-color: blueviolet;
+    margin-top: 500px
+   
+
+}
